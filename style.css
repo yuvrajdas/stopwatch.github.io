@@ -1,0 +1,33 @@
+ body{
+    background-color: rgb(61, 61, 61);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+ }
+
+.container{
+    color: silver;
+}
+.digit{
+    font-size: 200px;
+}
+.btn_section{
+    text-align: center;
+}
+.btn{
+    color: white;
+    font-size: 15px;
+    padding: 7px 25px;
+    border: none;
+    cursor: pointer;
+}
+#start{
+    background-color: yellowgreen;
+}
+#stop{
+    background-color: rgb(19, 135, 244);
+}
+#reset{
+    background-color: rgb(246, 28, 28);
+}
